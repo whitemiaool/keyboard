@@ -1,0 +1,11 @@
+.\usb_desc.o: ..\USB\CONFIG\usb_desc.c
+.\usb_desc.o: ..\USB\LIB\usb_lib.h
+.\usb_desc.o: ..\USB\LIB\usb_type.h
+.\usb_desc.o: ..\USB\CONFIG\usb_conf.h
+.\usb_desc.o: ..\USB\LIB\usb_regs.h
+.\usb_desc.o: ..\USB\LIB\usb_def.h
+.\usb_desc.o: ..\USB\LIB\usb_core.h
+.\usb_desc.o: ..\USB\LIB\usb_init.h
+.\usb_desc.o: ..\USB\LIB\usb_mem.h
+.\usb_desc.o: ..\USB\LIB\usb_int.h
+.\usb_desc.o: ..\USB\CONFIG\usb_desc.h

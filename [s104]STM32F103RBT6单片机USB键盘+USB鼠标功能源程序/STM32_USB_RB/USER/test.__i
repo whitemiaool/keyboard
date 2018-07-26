@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\HARDWARE\LED -I ..\HARDWARE\KEY -I ..\HARDWARE\EXTI -I ..\HARDWARE\WDG -I ..\HARDWARE\TIMER -I ..\HARDWARE\OLED -I ..\HARDWARE\LCD -I ..\HARDWARE\RTC -I ..\HARDWARE\WKUP -I ..\HARDWARE\ADC -I ..\HARDWARE\DMA -I ..\HARDWARE\24CXX -I ..\HARDWARE\FLASH -I ..\HARDWARE\SPI -I ..\HARDWARE\TOUCH -I ..\USB\CONFIG -I ..\USB\LIB
+-I D:\BaiduNetdiskDownload\[s104]STM32F103RBT6单片机USB键盘+USB鼠标源程序\[s104]\[s104]STM32F103RBT6单片机USB键盘+USB鼠标功能源程序\STM32_USB_RB\USER\RTE
+-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F10X_MD
+-o .\test.o --omf_browse .\test.crf --depend .\test.d "test.c"
