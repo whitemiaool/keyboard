@@ -1,0 +1,861 @@
+Added Component: Designator=P1(HDR1X17)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X17)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW2(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW3(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW4(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW5(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW6(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW7(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW8(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW9(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW10(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW11(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW12(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW13(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW14(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW15(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW16(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW17(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW18(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW19(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW20(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW21(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW22(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW23(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW24(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW25(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW26(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW27(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW28(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW29(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW30(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW31(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW32(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW33(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW34(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW35(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW36(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW37(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW38(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW39(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW40(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW41(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW42(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW43(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW44(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW45(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW46(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW47(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW48(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW49(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW50(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW51(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW52(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW53(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW54(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW55(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW56(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW57(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW58(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW59(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW60(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW61(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW62(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW63(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW64(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW65(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW66(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW67(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW68(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW69(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW70(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW71(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW72(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW73(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW74(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW75(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW76(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW77(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW78(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW79(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW80(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW81(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW82(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW83(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW84(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW85(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW86(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW87(MX_SW-2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=kcol1 Pin=P1-1
+Added Pin To Net: NetName=kcol2 Pin=P1-2
+Added Pin To Net: NetName=kcol3 Pin=P1-3
+Added Pin To Net: NetName=kcol4 Pin=P1-4
+Added Pin To Net: NetName=kcol5 Pin=P1-5
+Added Pin To Net: NetName=kcol6 Pin=P1-6
+Added Pin To Net: NetName=kcol7 Pin=P1-7
+Added Pin To Net: NetName=kcol8 Pin=P1-8
+Added Pin To Net: NetName=kcol9 Pin=P1-9
+Added Pin To Net: NetName=kcol10 Pin=P1-10
+Added Pin To Net: NetName=kcol11 Pin=P1-11
+Added Pin To Net: NetName=kcol12 Pin=P1-12
+Added Pin To Net: NetName=kcol13 Pin=P1-13
+Added Pin To Net: NetName=kcol14 Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-17
+Added Pin To Net: NetName=krow1 Pin=P2-1
+Added Pin To Net: NetName=krow2 Pin=P2-2
+Added Pin To Net: NetName=krow3 Pin=P2-3
+Added Pin To Net: NetName=krow4 Pin=P2-4
+Added Pin To Net: NetName=krow5 Pin=P2-5
+Added Pin To Net: NetName=lrow1 Pin=P2-6
+Added Pin To Net: NetName=lrow2 Pin=P2-7
+Added Pin To Net: NetName=kcol7 Pin=P2-8
+Added Pin To Net: NetName=lrow4 Pin=P2-9
+Added Pin To Net: NetName=lrow5 Pin=P2-10
+Added Pin To Net: NetName=VCC Pin=P2-17
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=VCC Pin=R12-2
+Added Pin To Net: NetName=VCC Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=R16-2
+Added Pin To Net: NetName=VCC Pin=R17-2
+Added Pin To Net: NetName=kcol1 Pin=SW2-1
+Added Pin To Net: NetName=kcol2 Pin=SW3-1
+Added Pin To Net: NetName=kcol3 Pin=SW4-1
+Added Pin To Net: NetName=kcol4 Pin=SW5-1
+Added Pin To Net: NetName=kcol5 Pin=SW6-1
+Added Pin To Net: NetName=kcol6 Pin=SW7-1
+Added Pin To Net: NetName=kcol7 Pin=SW8-1
+Added Pin To Net: NetName=kcol8 Pin=SW9-1
+Added Pin To Net: NetName=kcol9 Pin=SW10-1
+Added Pin To Net: NetName=kcol11 Pin=SW11-1
+Added Pin To Net: NetName=kcol12 Pin=SW12-1
+Added Pin To Net: NetName=kcol13 Pin=SW13-1
+Added Pin To Net: NetName=kcol14 Pin=SW14-1
+Added Pin To Net: NetName=kcol1 Pin=SW17-1
+Added Pin To Net: NetName=krow1 Pin=SW17-2
+Added Pin To Net: NetName=lrow1 Pin=SW17-4
+Added Pin To Net: NetName=kcol2 Pin=SW18-1
+Added Pin To Net: NetName=krow1 Pin=SW18-2
+Added Pin To Net: NetName=lrow1 Pin=SW18-4
+Added Pin To Net: NetName=kcol3 Pin=SW19-1
+Added Pin To Net: NetName=krow1 Pin=SW19-2
+Added Pin To Net: NetName=lrow1 Pin=SW19-4
+Added Pin To Net: NetName=kcol4 Pin=SW20-1
+Added Pin To Net: NetName=krow1 Pin=SW20-2
+Added Pin To Net: NetName=lrow1 Pin=SW20-4
+Added Pin To Net: NetName=kcol5 Pin=SW21-1
+Added Pin To Net: NetName=krow1 Pin=SW21-2
+Added Pin To Net: NetName=lrow1 Pin=SW21-4
+Added Pin To Net: NetName=kcol6 Pin=SW22-1
+Added Pin To Net: NetName=krow1 Pin=SW22-2
+Added Pin To Net: NetName=lrow1 Pin=SW22-4
+Added Pin To Net: NetName=kcol7 Pin=SW23-1
+Added Pin To Net: NetName=krow1 Pin=SW23-2
+Added Pin To Net: NetName=lrow1 Pin=SW23-4
+Added Pin To Net: NetName=kcol8 Pin=SW24-1
+Added Pin To Net: NetName=krow1 Pin=SW24-2
+Added Pin To Net: NetName=lrow1 Pin=SW24-4
+Added Pin To Net: NetName=kcol9 Pin=SW25-1
+Added Pin To Net: NetName=krow1 Pin=SW25-2
+Added Pin To Net: NetName=lrow1 Pin=SW25-4
+Added Pin To Net: NetName=kcol10 Pin=SW26-1
+Added Pin To Net: NetName=krow1 Pin=SW26-2
+Added Pin To Net: NetName=lrow1 Pin=SW26-4
+Added Pin To Net: NetName=kcol11 Pin=SW27-1
+Added Pin To Net: NetName=krow1 Pin=SW27-2
+Added Pin To Net: NetName=lrow1 Pin=SW27-4
+Added Pin To Net: NetName=kcol12 Pin=SW28-1
+Added Pin To Net: NetName=krow1 Pin=SW28-2
+Added Pin To Net: NetName=lrow1 Pin=SW28-4
+Added Pin To Net: NetName=kcol13 Pin=SW29-1
+Added Pin To Net: NetName=krow1 Pin=SW29-2
+Added Pin To Net: NetName=lrow1 Pin=SW29-4
+Added Pin To Net: NetName=kcol14 Pin=SW30-1
+Added Pin To Net: NetName=krow1 Pin=SW30-2
+Added Pin To Net: NetName=lrow1 Pin=SW30-4
+Added Pin To Net: NetName=krow1 Pin=SW31-2
+Added Pin To Net: NetName=lrow1 Pin=SW31-4
+Added Pin To Net: NetName=krow1 Pin=SW32-2
+Added Pin To Net: NetName=lrow1 Pin=SW32-4
+Added Pin To Net: NetName=krow1 Pin=SW33-2
+Added Pin To Net: NetName=lrow1 Pin=SW33-4
+Added Pin To Net: NetName=kcol1 Pin=SW34-1
+Added Pin To Net: NetName=krow2 Pin=SW34-2
+Added Pin To Net: NetName=lrow2 Pin=SW34-4
+Added Pin To Net: NetName=kcol2 Pin=SW35-1
+Added Pin To Net: NetName=krow2 Pin=SW35-2
+Added Pin To Net: NetName=lrow2 Pin=SW35-4
+Added Pin To Net: NetName=kcol3 Pin=SW36-1
+Added Pin To Net: NetName=krow2 Pin=SW36-2
+Added Pin To Net: NetName=lrow2 Pin=SW36-4
+Added Pin To Net: NetName=kcol4 Pin=SW37-1
+Added Pin To Net: NetName=krow2 Pin=SW37-2
+Added Pin To Net: NetName=lrow2 Pin=SW37-4
+Added Pin To Net: NetName=kcol5 Pin=SW38-1
+Added Pin To Net: NetName=krow2 Pin=SW38-2
+Added Pin To Net: NetName=lrow2 Pin=SW38-4
+Added Pin To Net: NetName=kcol6 Pin=SW39-1
+Added Pin To Net: NetName=krow2 Pin=SW39-2
+Added Pin To Net: NetName=lrow2 Pin=SW39-4
+Added Pin To Net: NetName=kcol7 Pin=SW40-1
+Added Pin To Net: NetName=krow2 Pin=SW40-2
+Added Pin To Net: NetName=lrow2 Pin=SW40-4
+Added Pin To Net: NetName=kcol8 Pin=SW41-1
+Added Pin To Net: NetName=krow2 Pin=SW41-2
+Added Pin To Net: NetName=lrow2 Pin=SW41-4
+Added Pin To Net: NetName=kcol9 Pin=SW42-1
+Added Pin To Net: NetName=krow2 Pin=SW42-2
+Added Pin To Net: NetName=lrow2 Pin=SW42-4
+Added Pin To Net: NetName=kcol10 Pin=SW43-1
+Added Pin To Net: NetName=krow2 Pin=SW43-2
+Added Pin To Net: NetName=lrow2 Pin=SW43-4
+Added Pin To Net: NetName=kcol11 Pin=SW44-1
+Added Pin To Net: NetName=krow2 Pin=SW44-2
+Added Pin To Net: NetName=lrow2 Pin=SW44-4
+Added Pin To Net: NetName=kcol12 Pin=SW45-1
+Added Pin To Net: NetName=krow2 Pin=SW45-2
+Added Pin To Net: NetName=lrow2 Pin=SW45-4
+Added Pin To Net: NetName=kcol13 Pin=SW46-1
+Added Pin To Net: NetName=krow2 Pin=SW46-2
+Added Pin To Net: NetName=lrow2 Pin=SW46-4
+Added Pin To Net: NetName=kcol14 Pin=SW47-1
+Added Pin To Net: NetName=krow2 Pin=SW47-2
+Added Pin To Net: NetName=lrow2 Pin=SW47-4
+Added Pin To Net: NetName=krow2 Pin=SW48-2
+Added Pin To Net: NetName=lrow2 Pin=SW48-4
+Added Pin To Net: NetName=krow2 Pin=SW49-2
+Added Pin To Net: NetName=lrow2 Pin=SW49-4
+Added Pin To Net: NetName=krow2 Pin=SW50-2
+Added Pin To Net: NetName=lrow2 Pin=SW50-4
+Added Pin To Net: NetName=kcol1 Pin=SW51-1
+Added Pin To Net: NetName=krow3 Pin=SW51-2
+Added Pin To Net: NetName=kcol7 Pin=SW51-4
+Added Pin To Net: NetName=kcol2 Pin=SW52-1
+Added Pin To Net: NetName=krow3 Pin=SW52-2
+Added Pin To Net: NetName=kcol7 Pin=SW52-4
+Added Pin To Net: NetName=kcol3 Pin=SW53-1
+Added Pin To Net: NetName=krow3 Pin=SW53-2
+Added Pin To Net: NetName=kcol7 Pin=SW53-4
+Added Pin To Net: NetName=kcol4 Pin=SW54-1
+Added Pin To Net: NetName=krow3 Pin=SW54-2
+Added Pin To Net: NetName=kcol7 Pin=SW54-4
+Added Pin To Net: NetName=kcol5 Pin=SW55-1
+Added Pin To Net: NetName=krow3 Pin=SW55-2
+Added Pin To Net: NetName=kcol7 Pin=SW55-4
+Added Pin To Net: NetName=kcol6 Pin=SW56-1
+Added Pin To Net: NetName=krow3 Pin=SW56-2
+Added Pin To Net: NetName=kcol7 Pin=SW56-4
+Added Pin To Net: NetName=kcol7 Pin=SW57-1
+Added Pin To Net: NetName=krow3 Pin=SW57-2
+Added Pin To Net: NetName=kcol7 Pin=SW57-4
+Added Pin To Net: NetName=kcol8 Pin=SW58-1
+Added Pin To Net: NetName=krow3 Pin=SW58-2
+Added Pin To Net: NetName=kcol7 Pin=SW58-4
+Added Pin To Net: NetName=kcol9 Pin=SW59-1
+Added Pin To Net: NetName=krow3 Pin=SW59-2
+Added Pin To Net: NetName=kcol7 Pin=SW59-4
+Added Pin To Net: NetName=kcol10 Pin=SW60-1
+Added Pin To Net: NetName=krow3 Pin=SW60-2
+Added Pin To Net: NetName=kcol7 Pin=SW60-4
+Added Pin To Net: NetName=kcol11 Pin=SW61-1
+Added Pin To Net: NetName=krow3 Pin=SW61-2
+Added Pin To Net: NetName=kcol7 Pin=SW61-4
+Added Pin To Net: NetName=kcol12 Pin=SW62-1
+Added Pin To Net: NetName=krow3 Pin=SW62-2
+Added Pin To Net: NetName=kcol7 Pin=SW62-4
+Added Pin To Net: NetName=kcol14 Pin=SW63-1
+Added Pin To Net: NetName=krow3 Pin=SW63-2
+Added Pin To Net: NetName=kcol7 Pin=SW63-4
+Added Pin To Net: NetName=kcol1 Pin=SW64-1
+Added Pin To Net: NetName=krow4 Pin=SW64-2
+Added Pin To Net: NetName=lrow4 Pin=SW64-4
+Added Pin To Net: NetName=kcol3 Pin=SW65-1
+Added Pin To Net: NetName=krow4 Pin=SW65-2
+Added Pin To Net: NetName=lrow4 Pin=SW65-4
+Added Pin To Net: NetName=kcol4 Pin=SW66-1
+Added Pin To Net: NetName=krow4 Pin=SW66-2
+Added Pin To Net: NetName=lrow4 Pin=SW66-4
+Added Pin To Net: NetName=kcol5 Pin=SW67-1
+Added Pin To Net: NetName=krow4 Pin=SW67-2
+Added Pin To Net: NetName=lrow4 Pin=SW67-4
+Added Pin To Net: NetName=kcol6 Pin=SW68-1
+Added Pin To Net: NetName=krow4 Pin=SW68-2
+Added Pin To Net: NetName=lrow4 Pin=SW68-4
+Added Pin To Net: NetName=kcol7 Pin=SW69-1
+Added Pin To Net: NetName=krow4 Pin=SW69-2
+Added Pin To Net: NetName=lrow4 Pin=SW69-4
+Added Pin To Net: NetName=kcol8 Pin=SW70-1
+Added Pin To Net: NetName=krow4 Pin=SW70-2
+Added Pin To Net: NetName=lrow4 Pin=SW70-4
+Added Pin To Net: NetName=kcol9 Pin=SW71-1
+Added Pin To Net: NetName=krow4 Pin=SW71-2
+Added Pin To Net: NetName=lrow4 Pin=SW71-4
+Added Pin To Net: NetName=kcol10 Pin=SW72-1
+Added Pin To Net: NetName=krow4 Pin=SW72-2
+Added Pin To Net: NetName=lrow4 Pin=SW72-4
+Added Pin To Net: NetName=kcol11 Pin=SW73-1
+Added Pin To Net: NetName=krow4 Pin=SW73-2
+Added Pin To Net: NetName=lrow4 Pin=SW73-4
+Added Pin To Net: NetName=kcol12 Pin=SW74-1
+Added Pin To Net: NetName=krow4 Pin=SW74-2
+Added Pin To Net: NetName=lrow4 Pin=SW74-4
+Added Pin To Net: NetName=kcol14 Pin=SW75-1
+Added Pin To Net: NetName=krow4 Pin=SW75-2
+Added Pin To Net: NetName=lrow4 Pin=SW75-4
+Added Pin To Net: NetName=krow4 Pin=SW76-2
+Added Pin To Net: NetName=lrow4 Pin=SW76-4
+Added Pin To Net: NetName=kcol1 Pin=SW77-1
+Added Pin To Net: NetName=krow5 Pin=SW77-2
+Added Pin To Net: NetName=lrow5 Pin=SW77-4
+Added Pin To Net: NetName=kcol2 Pin=SW78-1
+Added Pin To Net: NetName=krow5 Pin=SW78-2
+Added Pin To Net: NetName=lrow5 Pin=SW78-4
+Added Pin To Net: NetName=kcol3 Pin=SW79-1
+Added Pin To Net: NetName=krow5 Pin=SW79-2
+Added Pin To Net: NetName=lrow5 Pin=SW79-4
+Added Pin To Net: NetName=kcol7 Pin=SW80-1
+Added Pin To Net: NetName=krow5 Pin=SW80-2
+Added Pin To Net: NetName=lrow5 Pin=SW80-4
+Added Pin To Net: NetName=kcol11 Pin=SW81-1
+Added Pin To Net: NetName=krow5 Pin=SW81-2
+Added Pin To Net: NetName=lrow5 Pin=SW81-4
+Added Pin To Net: NetName=kcol12 Pin=SW82-1
+Added Pin To Net: NetName=krow5 Pin=SW82-2
+Added Pin To Net: NetName=lrow5 Pin=SW82-4
+Added Pin To Net: NetName=kcol13 Pin=SW83-1
+Added Pin To Net: NetName=krow5 Pin=SW83-2
+Added Pin To Net: NetName=lrow5 Pin=SW83-4
+Added Pin To Net: NetName=kcol14 Pin=SW84-1
+Added Pin To Net: NetName=krow5 Pin=SW84-2
+Added Pin To Net: NetName=lrow5 Pin=SW84-4
+Added Pin To Net: NetName=krow5 Pin=SW85-2
+Added Pin To Net: NetName=lrow5 Pin=SW85-4
+Added Pin To Net: NetName=krow5 Pin=SW86-2
+Added Pin To Net: NetName=lrow5 Pin=SW86-4
+Added Pin To Net: NetName=krow5 Pin=SW87-2
+Added Pin To Net: NetName=lrow5 Pin=SW87-4
+Added Pin To Net: NetName=kcol15 Pin=P1-15
+Added Pin To Net: NetName=kcol15 Pin=SW15-1
+Added Pin To Net: NetName=kcol15 Pin=SW31-1
+Added Pin To Net: NetName=kcol15 Pin=SW48-1
+Added Pin To Net: NetName=kcol15 Pin=SW85-1
+Added Net: Name=kcol15
+Added Pin To Net: NetName=kcol16 Pin=P1-16
+Added Pin To Net: NetName=kcol16 Pin=SW16-1
+Added Pin To Net: NetName=kcol16 Pin=SW32-1
+Added Pin To Net: NetName=kcol16 Pin=SW49-1
+Added Pin To Net: NetName=kcol16 Pin=SW76-1
+Added Pin To Net: NetName=kcol16 Pin=SW86-1
+Added Net: Name=kcol16
+Added Pin To Net: NetName=kcol17 Pin=P2-16
+Added Pin To Net: NetName=kcol17 Pin=SW1-1
+Added Pin To Net: NetName=kcol17 Pin=SW33-1
+Added Pin To Net: NetName=kcol17 Pin=SW50-1
+Added Pin To Net: NetName=kcol17 Pin=SW87-1
+Added Net: Name=kcol17
+Added Pin To Net: NetName=krow6 Pin=P2-12
+Added Pin To Net: NetName=krow6 Pin=R16-1
+Added Pin To Net: NetName=krow6 Pin=SW1-2
+Added Pin To Net: NetName=krow6 Pin=SW2-2
+Added Pin To Net: NetName=krow6 Pin=SW3-2
+Added Pin To Net: NetName=krow6 Pin=SW4-2
+Added Pin To Net: NetName=krow6 Pin=SW5-2
+Added Pin To Net: NetName=krow6 Pin=SW6-2
+Added Pin To Net: NetName=krow6 Pin=SW7-2
+Added Pin To Net: NetName=krow6 Pin=SW8-2
+Added Pin To Net: NetName=krow6 Pin=SW9-2
+Added Pin To Net: NetName=krow6 Pin=SW10-2
+Added Pin To Net: NetName=krow6 Pin=SW11-2
+Added Pin To Net: NetName=krow6 Pin=SW12-2
+Added Pin To Net: NetName=krow6 Pin=SW13-2
+Added Pin To Net: NetName=krow6 Pin=SW14-2
+Added Pin To Net: NetName=krow6 Pin=SW15-2
+Added Pin To Net: NetName=krow6 Pin=SW16-2
+Added Pin To Net: NetName=krow6 Pin=SW16-3
+Added Pin To Net: NetName=krow6 Pin=SW32-3
+Added Pin To Net: NetName=krow6 Pin=SW49-3
+Added Pin To Net: NetName=krow6 Pin=SW76-3
+Added Pin To Net: NetName=krow6 Pin=SW86-3
+Added Net: Name=krow6
+Added Pin To Net: NetName=lrow6 Pin=P2-11
+Added Pin To Net: NetName=lrow6 Pin=SW1-4
+Added Pin To Net: NetName=lrow6 Pin=SW2-4
+Added Pin To Net: NetName=lrow6 Pin=SW3-4
+Added Pin To Net: NetName=lrow6 Pin=SW4-4
+Added Pin To Net: NetName=lrow6 Pin=SW5-4
+Added Pin To Net: NetName=lrow6 Pin=SW6-4
+Added Pin To Net: NetName=lrow6 Pin=SW7-4
+Added Pin To Net: NetName=lrow6 Pin=SW8-4
+Added Pin To Net: NetName=lrow6 Pin=SW9-4
+Added Pin To Net: NetName=lrow6 Pin=SW10-4
+Added Pin To Net: NetName=lrow6 Pin=SW11-4
+Added Pin To Net: NetName=lrow6 Pin=SW12-4
+Added Pin To Net: NetName=lrow6 Pin=SW13-4
+Added Pin To Net: NetName=lrow6 Pin=SW14-4
+Added Pin To Net: NetName=lrow6 Pin=SW15-4
+Added Pin To Net: NetName=lrow6 Pin=SW16-4
+Added Net: Name=lrow6
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW2-3
+Added Pin To Net: NetName=NetR1_1 Pin=SW17-3
+Added Pin To Net: NetName=NetR1_1 Pin=SW34-3
+Added Pin To Net: NetName=NetR1_1 Pin=SW51-3
+Added Pin To Net: NetName=NetR1_1 Pin=SW64-3
+Added Pin To Net: NetName=NetR1_1 Pin=SW77-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=SW3-3
+Added Pin To Net: NetName=NetR2_1 Pin=SW18-3
+Added Pin To Net: NetName=NetR2_1 Pin=SW35-3
+Added Pin To Net: NetName=NetR2_1 Pin=SW52-3
+Added Pin To Net: NetName=NetR2_1 Pin=SW78-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SW4-3
+Added Pin To Net: NetName=NetR3_1 Pin=SW19-3
+Added Pin To Net: NetName=NetR3_1 Pin=SW36-3
+Added Pin To Net: NetName=NetR3_1 Pin=SW53-3
+Added Pin To Net: NetName=NetR3_1 Pin=SW65-3
+Added Pin To Net: NetName=NetR3_1 Pin=SW79-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SW5-3
+Added Pin To Net: NetName=NetR4_1 Pin=SW20-3
+Added Pin To Net: NetName=NetR4_1 Pin=SW37-3
+Added Pin To Net: NetName=NetR4_1 Pin=SW54-3
+Added Pin To Net: NetName=NetR4_1 Pin=SW66-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SW6-3
+Added Pin To Net: NetName=NetR5_1 Pin=SW21-3
+Added Pin To Net: NetName=NetR5_1 Pin=SW38-3
+Added Pin To Net: NetName=NetR5_1 Pin=SW55-3
+Added Pin To Net: NetName=NetR5_1 Pin=SW67-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SW7-3
+Added Pin To Net: NetName=NetR6_1 Pin=SW22-3
+Added Pin To Net: NetName=NetR6_1 Pin=SW39-3
+Added Pin To Net: NetName=NetR6_1 Pin=SW56-3
+Added Pin To Net: NetName=NetR6_1 Pin=SW68-3
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SW8-3
+Added Pin To Net: NetName=NetR7_1 Pin=SW23-3
+Added Pin To Net: NetName=NetR7_1 Pin=SW40-3
+Added Pin To Net: NetName=NetR7_1 Pin=SW57-3
+Added Pin To Net: NetName=NetR7_1 Pin=SW69-3
+Added Pin To Net: NetName=NetR7_1 Pin=SW80-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=SW9-3
+Added Pin To Net: NetName=NetR8_1 Pin=SW24-3
+Added Pin To Net: NetName=NetR8_1 Pin=SW41-3
+Added Pin To Net: NetName=NetR8_1 Pin=SW58-3
+Added Pin To Net: NetName=NetR8_1 Pin=SW70-3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=SW10-3
+Added Pin To Net: NetName=NetR9_1 Pin=SW25-3
+Added Pin To Net: NetName=NetR9_1 Pin=SW42-3
+Added Pin To Net: NetName=NetR9_1 Pin=SW59-3
+Added Pin To Net: NetName=NetR9_1 Pin=SW71-3
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=SW26-3
+Added Pin To Net: NetName=NetR10_1 Pin=SW43-3
+Added Pin To Net: NetName=NetR10_1 Pin=SW60-3
+Added Pin To Net: NetName=NetR10_1 Pin=SW72-3
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=SW11-3
+Added Pin To Net: NetName=NetR11_1 Pin=SW27-3
+Added Pin To Net: NetName=NetR11_1 Pin=SW44-3
+Added Pin To Net: NetName=NetR11_1 Pin=SW61-3
+Added Pin To Net: NetName=NetR11_1 Pin=SW73-3
+Added Pin To Net: NetName=NetR11_1 Pin=SW81-3
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=SW12-3
+Added Pin To Net: NetName=NetR12_1 Pin=SW28-3
+Added Pin To Net: NetName=NetR12_1 Pin=SW45-3
+Added Pin To Net: NetName=NetR12_1 Pin=SW62-3
+Added Pin To Net: NetName=NetR12_1 Pin=SW74-3
+Added Pin To Net: NetName=NetR12_1 Pin=SW82-3
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=SW13-3
+Added Pin To Net: NetName=NetR13_1 Pin=SW29-3
+Added Pin To Net: NetName=NetR13_1 Pin=SW46-3
+Added Pin To Net: NetName=NetR13_1 Pin=SW83-3
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=SW14-3
+Added Pin To Net: NetName=NetR14_1 Pin=SW30-3
+Added Pin To Net: NetName=NetR14_1 Pin=SW47-3
+Added Pin To Net: NetName=NetR14_1 Pin=SW63-3
+Added Pin To Net: NetName=NetR14_1 Pin=SW75-3
+Added Pin To Net: NetName=NetR14_1 Pin=SW84-3
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=SW15-3
+Added Pin To Net: NetName=NetR15_1 Pin=SW31-3
+Added Pin To Net: NetName=NetR15_1 Pin=SW48-3
+Added Pin To Net: NetName=NetR15_1 Pin=SW85-3
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=SW1-3
+Added Pin To Net: NetName=NetR17_1 Pin=SW33-3
+Added Pin To Net: NetName=NetR17_1 Pin=SW50-3
+Added Pin To Net: NetName=NetR17_1 Pin=SW87-3
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=keyboard Member=Component P1 Header 17
+Added Member To Class: ClassName=keyboard Member=Component P2 Header 17
+Added Member To Class: ClassName=keyboard Member=Component R1 Res
+Added Member To Class: ClassName=keyboard Member=Component R2 Res
+Added Member To Class: ClassName=keyboard Member=Component R3 Res
+Added Member To Class: ClassName=keyboard Member=Component R4 Res
+Added Member To Class: ClassName=keyboard Member=Component R5 Res
+Added Member To Class: ClassName=keyboard Member=Component R6 Res
+Added Member To Class: ClassName=keyboard Member=Component R7 Res
+Added Member To Class: ClassName=keyboard Member=Component R8 Res
+Added Member To Class: ClassName=keyboard Member=Component R9 Res
+Added Member To Class: ClassName=keyboard Member=Component R10 Res
+Added Member To Class: ClassName=keyboard Member=Component R11 Res
+Added Member To Class: ClassName=keyboard Member=Component R12 Res
+Added Member To Class: ClassName=keyboard Member=Component R13 Res
+Added Member To Class: ClassName=keyboard Member=Component R14 Res
+Added Member To Class: ClassName=keyboard Member=Component R15 Res
+Added Member To Class: ClassName=keyboard Member=Component R16 Res
+Added Member To Class: ClassName=keyboard Member=Component R17 Res
+Added Member To Class: ClassName=keyboard Member=Component SW1 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW2 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW3 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW4 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW5 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW6 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW7 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW8 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW9 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW10 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW11 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW12 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW13 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW14 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW15 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW16 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW17 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW18 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW19 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW20 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW21 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW22 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW23 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW24 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW25 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW26 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW27 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW28 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW29 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW30 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW31 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW32 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW33 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW34 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW35 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW36 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW37 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW38 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW39 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW40 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW41 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW42 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW43 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW44 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW45 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW46 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW47 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW48 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW49 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW50 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW51 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW52 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW53 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW54 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW55 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW56 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW57 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW58 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW59 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW60 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW61 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW62 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW63 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW64 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW65 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW66 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW67 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW68 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW69 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW70 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW71 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW72 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW73 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW74 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW75 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW76 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW77 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW78 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW79 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW80 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW81 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW82 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW83 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW84 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW85 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW86 MX_SW
+Added Member To Class: ClassName=keyboard Member=Component SW87 MX_SW
+Added Room: Name=keyboard
